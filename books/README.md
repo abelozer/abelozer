@@ -6,8 +6,6 @@ image: null
 nav-menu: true
 ---
 
-# Книги
-
 * [Как все испортить](kak-vse-isportit.md)
 * [Моя гениальная подруга](my-brilliant-friend.md)
 * [Стоп фантастика](stop-fantastika.md)
