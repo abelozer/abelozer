@@ -11,4 +11,5 @@ permalink: /start/
 
 * [Рассказы](stories/)
 * [Книги](books/)
+* [Блог](/posts/)
 
