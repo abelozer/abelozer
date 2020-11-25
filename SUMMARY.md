@@ -1,4 +1,12 @@
-# Table of contents
+---
+layout: page
+title: Содержание
+nav-menu: true
+description: null
+image: null
+author: null
+show_tile: false
+---
 
 * [Привет.](README.md)
 * [Рассказы](stories/README.md)
