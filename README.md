@@ -2,7 +2,7 @@
 layout: post
 title: Привет.
 description: Домашнаяя страница
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 ---
 
