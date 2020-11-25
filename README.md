@@ -3,7 +3,7 @@ layout: post
 title: Привет.
 description: Домашнаяя страница
 image: 
-nav-menu: true
+nav-menu: false
 ---
 
 # Привет.
