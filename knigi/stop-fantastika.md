@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Стоп фантастика
+title: 
 description: О моем отношении к фантастике
 image: 
 nav-menu: false
