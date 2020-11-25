@@ -3,7 +3,7 @@ layout: post
 title: Как все испортить
 description:
 image: 
-nav-menu: true
+nav-menu: false
 ---
 
 # Как все испортить
