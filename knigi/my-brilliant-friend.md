@@ -3,7 +3,7 @@ layout: post
 title: Моя гениальная подруга
 description:
 image: 
-nav-menu: true
+nav-menu: false
 ---
 
 # Моя гениальная подруга
