@@ -2,7 +2,7 @@
 layout: post
 title: Как все испортить
 description: null
-image: null
+image: assets/images/akop-sarkisyan.png
 nav-menu: false
 ---
 
