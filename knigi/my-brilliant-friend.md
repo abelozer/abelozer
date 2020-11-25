@@ -1,3 +1,11 @@
+---
+layout: post
+title: Моя гениальная подруга
+description:
+image: 
+nav-menu: true
+---
+
 # Моя гениальная подруга
 
 ![&#x41D;&#x435;&#x430;&#x43F;&#x43E;&#x43B;&#x438;&#x442;&#x430;&#x43D;&#x441;&#x43A;&#x438;&#x439; &#x43A;&#x432;&#x430;&#x440;&#x442;&#x435;&#x442;](../.gitbook/assets/my-brilliant-friend.png)
