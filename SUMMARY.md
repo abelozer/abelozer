@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Содержание
-nav-menu: true
+nav-menu: false
 description: null
 image: null
 author: null
