@@ -3,7 +3,7 @@ layout: post
 title: Как читать книги
 description: Пишу для себя заметку о том, как правильно читать книги.
 image: 
-nav-menu: true
+nav-menu: false
 ---
 
 # Как читать книги
