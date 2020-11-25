@@ -2,7 +2,7 @@
 layout: post
 title: Моя гениальная подруга
 description: null
-image: /assets/images/my-brilliant-friend.png
+image: assets/images/my-brilliant-friend.png
 nav-menu: false
 ---
 
