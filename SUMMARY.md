@@ -2,7 +2,7 @@
 layout: post
 title: Содержание
 description:
-image: assets/images/pic11.jpg
+image:
 nav-menu: true
 ---
 
