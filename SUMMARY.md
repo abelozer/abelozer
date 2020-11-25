@@ -6,8 +6,6 @@ image:
 nav-menu: true
 ---
 
-# Содержание
-
 * [Привет.](README.md)
 * [Рассказы](rasskazy/README.md)
   * [Папа мечты](rasskazy/papa-mechty.md)
