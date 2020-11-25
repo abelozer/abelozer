@@ -3,7 +3,7 @@ layout: post
 title: Содержание
 description:
 image:
-nav-menu: true
+nav-menu: false
 ---
 
 * [Привет.](README.md)
