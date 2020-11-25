@@ -1,11 +1,11 @@
 # site settings
-title: Forty
+title: Impersonal blog
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+baseurl: "/abelozer" # the subpath of your site, e.g. /blog
+url: "https://abelozer.github.io" # the base hostname & protocol for your site
+author: Alexey Belozerov
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
@@ -18,16 +18,10 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
+facebook_url:belozerov
 github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+instagram_url: https://instagram.com/belozerov
+twitter_url: https://twitter.com/
 
 # build settings
 markdown: kramdown
