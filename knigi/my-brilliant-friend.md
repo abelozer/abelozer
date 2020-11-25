@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Моя гениальная подруга
+title: 
 description:
 image: 
 nav-menu: false
