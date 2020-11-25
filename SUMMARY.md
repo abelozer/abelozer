@@ -1,4 +1,12 @@
-# Table of contents
+---
+layout: post
+title: Содержание
+description:
+image: assets/images/pic11.jpg
+nav-menu: true
+---
+
+# Содержание
 
 * [Привет.](README.md)
 * [Рассказы](rasskazy/README.md)
