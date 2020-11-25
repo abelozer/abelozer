@@ -6,7 +6,7 @@ image: null
 nav-menu: false
 ---
 
-![&#x41D;&#x435;&#x430;&#x43F;&#x43E;&#x43B;&#x438;&#x442;&#x430;&#x43D;&#x441;&#x43A;&#x438;&#x439; &#x43A;&#x432;&#x430;&#x440;&#x442;&#x435;&#x442;](https://github.com/abelozer/abelozer/tree/061b23ec1c7b32aba47febf66036541d99e0efed/.gitbook/assets/my-brilliant-friend.png)
+![Неаполитанский квартет](/assets/images/my-brilliant-friend.png)
 
 Тот случай, когда я читаю книгу после [сериала](https://www.imdb.com/title/tt7278862/) и получаю от этого удовольствие, потому что визуализирую героев и их быт. Гениальный сериал. А теперь еще герои раскрываются по-новому. Наконец, я могу объяснить их поступки.
 
