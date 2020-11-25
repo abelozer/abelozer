@@ -4,9 +4,8 @@ title: Книги
 description: Я пишу про книги.
 image: null
 nav-menu: true
+permalink: /books/
 ---
-
-# Книги
 
 * [Как все испортить](2020-11-24-kak-vse-isportit.md)
 * [Моя гениальная подруга](2020-11-23-my-brilliant-friend.md)
