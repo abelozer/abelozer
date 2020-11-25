@@ -11,6 +11,11 @@ author: Alexey Belozerov
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 4
 
+remote_theme: andrewbanchich/forty-jekyll-theme
+
+plugins:
+  - jekyll-remote-theme
+
 # social settings
 instagram_url: https://instagram.com/belozerov
 twitter_url: https://twitter.com/belozerov
