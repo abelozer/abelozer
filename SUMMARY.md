@@ -4,6 +4,7 @@ title: Содержание
 description:
 image:
 nav-menu: false
+permalink: /contents/
 ---
 
 * [Привет.](README.md)
