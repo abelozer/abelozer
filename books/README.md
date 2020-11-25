@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Книги
 description: Я пишу про книги.
 image: null
