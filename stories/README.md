@@ -7,5 +7,7 @@ nav-menu: true
 permalink: /stories/
 ---
 
+# Рассказы
+
 * [Папа мечты](2020-11-25-papa-mechty.md)
 
