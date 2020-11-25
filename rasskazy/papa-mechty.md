@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Папа мечты
 description: 
 image: 
