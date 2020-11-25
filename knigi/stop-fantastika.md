@@ -1,3 +1,11 @@
+---
+layout: post
+title: Стоп фантастика
+description: О моем отношении к фантастике
+image: 
+nav-menu: true
+---
+
 # Стоп фантастика
 
 ![&#x422;&#x440;&#x438;&#x43B;&#x43E;&#x433;&#x438;&#x44F; &#x41B;&#x44E; &#x426;&#x44B;&#x441;&#x438;&#x43D;&#x44F;](../.gitbook/assets/lyu-tsysin-pamyat-o-proshlom-zemli.gif)
