@@ -18,10 +18,8 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-facebook_url:belozerov
-github_url:
 instagram_url: https://instagram.com/belozerov
-twitter_url: https://twitter.com/
+twitter_url: https://twitter.com/belozerov
 
 # build settings
 markdown: kramdown
