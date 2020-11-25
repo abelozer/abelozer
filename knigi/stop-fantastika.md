@@ -3,7 +3,7 @@ layout: post
 title: Стоп фантастика
 description: О моем отношении к фантастике
 image: 
-nav-menu: true
+nav-menu: false
 ---
 
 # Стоп фантастика
