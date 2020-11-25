@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Папа мечты
+title: 
 description: 
 image: 
 nav-menu: true
