@@ -19,6 +19,8 @@ plugins:
 # social settings
 instagram_url: https://instagram.com/belozerov
 twitter_url: https://twitter.com/belozerov
+facebook_url:
+
 
 # build settings
 markdown: kramdown
