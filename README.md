@@ -1,6 +1,9 @@
 ---
-layout: home
-author_profile: true
+layout: post
+title: Привет.
+description: Домашнаяя страница
+image: assets/images/pic11.jpg
+nav-menu: true
 ---
 
 # Привет.
