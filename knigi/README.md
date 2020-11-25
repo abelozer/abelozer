@@ -2,7 +2,7 @@
 layout: post
 title: Книги
 description: Я пишу про книги.
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 ---
 
