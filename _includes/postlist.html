@@ -1,8 +1,10 @@
 <ul>
   {% for page in site.pages %}
-    <li>
-      <a href="{{ page.url | prepend:site.baseurl }}">{{ page.title }} - {{ page.description }}</a>
-    </li>
+    {% unless page.exclude %}
+      <li>
+        <a href="{{ page.url | prepend:site.baseurl }}">{{ page.title }} - {{ page.description }}</a>
+      </li>
+    {% endunless %}
   {% endfor %}
 </ul>
 <h1>1</h1>
