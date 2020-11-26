@@ -8,5 +8,6 @@ image: null
 author: null
 show_tile: false
 permalink: /posts/
+exclude: true
 ---
 
