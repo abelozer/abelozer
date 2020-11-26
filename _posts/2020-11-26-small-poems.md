@@ -2,7 +2,7 @@
 layout: post
 title: Стишочки
 description: Однажды я придумал, что четырех строк достаточно
-image: null
+image: assets/images/10041184213.jpg
 nav-menu: false
 sitemap:
   include: true
