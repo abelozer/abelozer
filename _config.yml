@@ -9,7 +9,7 @@ author: Alexey Belozerov
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 4
+tiles-count: 6
 
 remote_theme: andrewbanchich/forty-jekyll-theme
 
