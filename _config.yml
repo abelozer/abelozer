@@ -1,8 +1,8 @@
 # site settings
-title: Impersonal blog
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Безличный блог
+subtitle: читать не обязательно
+email: belozerovau@gmail.com
+description: Я дал себе обещание научиться писать<br />, и теперь пишу всякую ерунду.
 baseurl: "/abelozer" # the subpath of your site, e.g. /blog
 url: "https://abelozer.github.io" # the base hostname & protocol for your site
 author: Alexey Belozerov
