@@ -6,4 +6,11 @@
       </li>
     {% endif %}
   {% endfor %}
+  {% for post in site.posts %}
+    {% if post.sitemap.include %}
+      <li>
+        <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}{% if post.description %} - {{ post.description }}{% endif %}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
 </ul>
