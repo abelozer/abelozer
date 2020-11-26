@@ -1,5 +1,6 @@
+{% assign my_pages = site.pages | where_exp: "page", "page.ext != 'css'" %}
 <ul>
-  {% for page in site.pages %}
+  {% for page in my_pages %}
     {% unless page.exclude %}
       <li>
         <a href="{{ page.url | prepend:site.baseurl }}">{{ page.title }}{% if page.description %} - {{ page.description }}{% endif %}</a>
