@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Как читать книги
-description: 'Пишу для себя заметку о том, как правильно читать книги.'
+description: 'Пишу для себя заметку о том, как правильно читать книги'
 image: null
 nav-menu: false
 category: books
