@@ -1,6 +1,6 @@
 # site settings
 title: Безличный блог
-subtitle: читать не обязательно
+subtitle: Читать не обязательно
 email: belozerovau@gmail.com
 description: Я дал себе обещание научиться писать,<br />и теперь пишу всякую ерунду.
 baseurl: "/abelozer" # the subpath of your site, e.g. /blog
