@@ -7,6 +7,7 @@ image: null
 author: null
 show_tile: false
 permalink: /contents/
+exclude: true
 ---
 
 * [Привет.](README.md)
