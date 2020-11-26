@@ -9,9 +9,10 @@ show_tile: false
 ---
 
 <ul>
-  {% for pages in site.pages %}
+  {% for post in site.posts %}
     <li>
-      <a href="{{ page.url }}">{{ page.title }} - {{ page.description }}</a>
+      <a href="{{ post.url }}">{{ post.title }} - {{ post.description }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
