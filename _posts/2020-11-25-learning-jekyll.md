@@ -1,6 +1,0 @@
----
-layout: post
-title:  "I want my title"
----
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. For example, the following are examples of valid post filenames.
