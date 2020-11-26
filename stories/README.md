@@ -5,6 +5,7 @@ description: Я пишу маленькие рассказы. Все они ос
 image: null
 nav-menu: true
 permalink: /stories/
+collection: stories
 ---
 
 * [Папа мечты](2020-11-25-papa-mechty.md)
