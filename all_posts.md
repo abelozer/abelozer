@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: Все записи
-landing-title: 'Все записи'
+title: Блог
+landing-title: 'Записи блога'
 nav-menu: true
 description: null
 image: null
