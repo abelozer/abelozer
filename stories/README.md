@@ -6,6 +6,7 @@ image: null
 nav-menu: true
 permalink: /stories/
 category: stories
+exclude: true
 ---
 
 * [Папа мечты](2020-11-25-papa-mechty.md)
