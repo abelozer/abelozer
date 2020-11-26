@@ -8,4 +8,10 @@ author: null
 show_tile: false
 ---
 
-Когда-нибудь здесь будет текст.
+<ul>
+  {% for pages in site.pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }} - {{ page.description }}</a>
+    </li>
+  {% endfor %}
+</ul>
