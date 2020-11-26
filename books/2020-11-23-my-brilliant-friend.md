@@ -5,6 +5,8 @@ description: null
 image: assets/images/my-brilliant-friend.png
 nav-menu: false
 category: books
+sitemap:
+  include: true
 ---
 
 Тот случай, когда я читаю книгу после [сериала](https://www.imdb.com/title/tt7278862/) и получаю от этого удовольствие, потому что визуализирую героев и их быт. Гениальный сериал. А теперь еще герои раскрываются по-новому. Наконец, я могу объяснить их поступки.
