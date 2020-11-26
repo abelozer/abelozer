@@ -5,7 +5,6 @@ description: Я пишу про книги.
 image: null
 nav-menu: true
 permalink: /books/
-exclude: true
 ---
 
 * [Как все испортить](2020-11-24-kak-vse-isportit.md)
