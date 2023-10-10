@@ -13,4 +13,4 @@ description: Домашнаяя страница
 
 * [Рассказы](stories/)
 * [Книги](books/)
-* [Блог](https://github.com/abelozer/abelozer/tree/573ac2870c1a83d1b5db770c8f66882e00b14e1b/posts/README.md)
+* [Блог](blog/)
