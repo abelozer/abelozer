@@ -4,7 +4,6 @@ image: null
 nav-menu: false
 permalink: /start/
 exclude: true
-description: Домашняя страница
 ---
 
 # Привет
