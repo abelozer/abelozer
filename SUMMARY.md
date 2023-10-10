@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Привет](README.md)
-* [Привет.](<README (1).md>)
 * [Рассказы](stories/README.md)
   * [Папа мечты](stories/2020-11-25-papa-mechty.md)
 * [Книги](books/README.md)
