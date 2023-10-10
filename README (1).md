@@ -4,10 +4,10 @@ image: null
 nav-menu: false
 permalink: /start/
 exclude: true
-description: Домашняя страница
+description: Домашнаяя страница
 ---
 
-# Привет
+# Привет.
 
 Стартовая страница всегда самая сложная.
 
