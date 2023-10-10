@@ -1,5 +1,5 @@
 ---
-title: Привет.
+title: Привет
 image: null
 nav-menu: false
 permalink: /start/
