@@ -9,4 +9,4 @@
   * [Стоп фантастика](books/2020-11-22-stop-fantastika.md)
   * [Как читать книги](books/2020-11-20-kak-chitat-knigi.md)
 * [Блог](blog/README.md)
-  * [Stockholm](blog/stockholm.md)
+  * [Стокгольм на поезде](blog/stokgolm-na-poezde.md)
