@@ -1,14 +1,4 @@
----
-layout: page
-title: Содержание
-nav-menu: false
-description: null
-image: null
-author: null
-show_tile: false
-permalink: /contents/
-exclude: true
----
+# Table of contents
 
 * [Привет.](README.md)
 * [Рассказы](stories/README.md)
@@ -18,4 +8,5 @@ exclude: true
   * [Моя гениальная подруга](books/2020-11-23-my-brilliant-friend.md)
   * [Стоп фантастика](books/2020-11-22-stop-fantastika.md)
   * [Как читать книги](books/2020-11-20-kak-chitat-knigi.md)
-
+* [Blog](blog/README.md)
+  * [Stockholm](blog/stockholm.md)
