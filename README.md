@@ -1,11 +1,3 @@
----
-title: Привет
-image: null
-nav-menu: false
-permalink: /start/
-exclude: true
----
-
 # Привет
 
 Стартовая страница всегда самая сложная.
