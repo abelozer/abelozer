@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Привет](README.md)
-* [Рассказы](stories/README.md)
+* [Я пишу](stories/README.md)
   * [Папа мечты](stories/2020-11-25-papa-mechty.md)
 * [Книги](books/README.md)
   * [Как все испортить](books/2020-11-24-kak-vse-isportit.md)
