@@ -1,14 +1,22 @@
 ---
-layout: post
 title: Книги
-description: Я пишу про книги.
 image: null
 nav-menu: true
 permalink: /books/
+description: Я пишу про книги.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-* [Как все испортить](2020-11-24-kak-vse-isportit.md)
-* [Моя гениальная подруга](2020-11-23-my-brilliant-friend.md)
-* [Стоп фантастика](2020-11-22-stop-fantastika.md)
-* [Как читать книги](2020-11-20-kak-chitat-knigi.md)
+# Книги
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="lyudi-sredi-derevev.md">lyudi-sredi-derevev.md</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
