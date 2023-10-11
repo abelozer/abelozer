@@ -3,6 +3,7 @@
 * [Привет](README.md)
 * [Я пишу](stories/README.md)
   * [Папа мечты](stories/2020-11-25-papa-mechty.md)
+  * [Мелкие стихи](stories/melkie-stikhi.md)
 * [Книги](books/README.md)
   * [Как все испортить](books/2020-11-24-kak-vse-isportit.md)
   * [Моя гениальная подруга](books/2020-11-23-my-brilliant-friend.md)
